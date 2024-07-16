@@ -273,6 +273,10 @@ const Footer = () => {
           text: "Preguntas frecuentes",
           url: "/faq",
         },
+        {
+          text: "Trabaja con nosotros",
+          url: "/trabaja-con-nosotros",
+        },
         // {
         //   text: "Canal informativo",
         //   url: "/",
